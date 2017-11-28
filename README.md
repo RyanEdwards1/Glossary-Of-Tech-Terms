@@ -30,7 +30,7 @@
 #### 10 - Product Owner
 ###### The role in Scrum accountable for maximizing the value of a product, primarily by incrementally managing and expressing business and functional expectations for a product to the Development Team(s).
 
-## Programming Steps
+#### Programming Steps
 1. Clarify/Define the Problem
 2. Design the Program
 3. Three control structure:
