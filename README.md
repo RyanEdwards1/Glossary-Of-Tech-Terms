@@ -29,3 +29,11 @@
 ###### A person external to the Scrum Team with a specific interest in and knowledge of a product that is required for incremental discovery. Represented by the Product Owner and actively engaged with the Scrum Team at Sprint Review.
 #### 10 - Product Owner
 ###### The role in Scrum accountable for maximizing the value of a product, primarily by incrementally managing and expressing business and functional expectations for a product to the Development Team(s).
+
+## Programming Steps
+1.Clarify/Define the Problem
+2.Design the Program
+3. Three control structure:
+4. Code the Program
+5. Test the Program
+6. Document and Maintain
