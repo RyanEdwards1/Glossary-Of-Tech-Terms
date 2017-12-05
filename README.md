@@ -30,14 +30,22 @@
 #### 10 - Product Owner
 ###### The role in Scrum accountable for maximizing the value of a product, primarily by incrementally managing and expressing business and functional expectations for a product to the Development Team(s).
 
-#### 11 - Programming Steps
-###### 1. Clarify/Define What language and IDE you will use 
-####### Firstly you will want to define what language you will use to write this set project in. Then you will need to find a IDE that supports the Language you have chosen
-###### 2. Design the Program
-###### 3. Three control structure:
-###### 4. Code the Program
-###### 5. Test the Program
-###### 6. Document and Maintain
+### 11 - Programming Steps
+
+#### 11. 1. Clarify/Define What language and IDE you will use 
+
+###### Firstly you will want to define what language you will use to write this set project in. Then you will need to find a IDE that supports the Language you have chosen
+
+#### 11. 2. Design the Program
+###### This is where you create the story boards of how what ever you are making is going to play out. secondly you will need to make a flow chart of how the code will work so that you can follow it. Then if you need any graphics or assets you will need to design or buy them as well
+
+#### 11. 3. Code the Program
+###### This is where you will need to have your IDE selected because you will be starting to code your work and you are going to want to make sure it is compatible with your customers needs. 
+
+### 11. 4. Test the Program
+##### At this point your code should be complete enough to be able to test cetain parts of the code or even all of it. This is the start of the debugging process. 
+### 11. 5. Document and Maintain
+##### Once you have completed your work you will send it off to the customer and you will maintain it if it is a website or a app. 
 
 #### 12 - Algorithms 
 ###### An algorithm is a list of rules to follow in order to solve a problem. Algorithms need to have their steps in the right order as they are followed by any one and everyone so if they are in the wrong order it is like looking a instructions the wrong way. A example of this is a Flow Chart.
