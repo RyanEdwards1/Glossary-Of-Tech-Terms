@@ -41,4 +41,4 @@
 #### 12 - Algorithms 
 ###### An algorithm is a list of rules to follow in order to solve a problem. Algorithms need to have their steps in the right order as they are followed by any one and everyone so if they are in the wrong order it is like looking a instructions the wrong way. A example of this is a Flow Chart.
 #### 13 - IDE
-###### A IDE also known as a Integrated Development Environment. Is a software application that provides comprehensive facilities to computer programmers for software development. An IDE normally consists of a source code editor, build automation tools and a debugger. Some Examples of this are NotePad ++, Repl.It And Unity
+###### A IDE also known as a Integrated Development Environment. Is a software application that provides comprehensive facilities to computer programmers for software development. An IDE normally consists of a source code editor, build automation tools and a debugger. Some Examples of this are NotePad ++, Repl.It, Shell And Unity
