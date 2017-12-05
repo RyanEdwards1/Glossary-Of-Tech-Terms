@@ -54,4 +54,16 @@
 ###### A IDE also known as a Integrated Development Environment. Is a software application that provides comprehensive facilities to computer programmers for software development. An IDE normally consists of a source code editor, build automation tools and a debugger. Some Examples of this are NotePad ++, Repl.It, Shell And Unity
 
 #### 14 - Debugging 
-###### Debugging is a process that is very helpful and useful for every coder it helps you look over your working code in the console and check to see if there is any errors have occured in the process. Then you are able to read and check through every line in the code that has been affected the program. This then makes sure the program is in working order and to make it more robust. Without this, the code affect might not be shown and so you will not be able to know what is the problem with the code. Which may then cause problems in the future. 
+###### Debugging is a process that is very helpful and useful for every coder it helps you look over your working code in the console and check to see if there is any errors have occured in the process. Then you are able to read and check through every line in the code that has been affected the program. This then makes sure the program is in working order and to make it more robust. Without this, the code affect might not be shown and so you will not be able to know what is the problem with the code. Which may then cause problems in the future.
+
+#### 15 - Procedural 
+##### Procedures also known as functions contain a series of computational steps to be carried out. Any given procedure might be called at any point during a program's execution, including by other procedures or itself. 
+
+#### 16 - Object Orientated 
+##### Based on the concept of 'Objects', which may contain data, in the form of fields, often known as attributes; and code, in the form of procedures, often known as methods. OOP features object's that can access and modify the data fields of the object with which they are associated. OOP programs are designed by making them out of objects that interact with one and other.
+
+#### 17 - Event Driven Pradigms 
+##### The flow of the program is controlled by events such as user actions, sensor outputs, or messages from other programs/threads. Some examples are Buttons, Mouse movement, Yes or No and a switch
+
+#### Relationship Between paradigms 
+##### All of the paradigms are trying to acheive the same outcome but in all different ways. They are all trying to do the same thing which is to help implement some form of solution to the problem that the user is having, the differences are how they do it. They all contain functions but have different ways of them being implemented. Procedural simply just calls the functions, Event Driven ties the function to an event to happen and Object Orientated ties the function to an object through class and other methods.
