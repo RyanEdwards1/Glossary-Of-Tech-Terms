@@ -31,12 +31,12 @@
 ###### The role in Scrum accountable for maximizing the value of a product, primarily by incrementally managing and expressing business and functional expectations for a product to the Development Team(s).
 
 #### 11 - Programming Steps
-1. Clarify/Define the Problem
-2. Design the Program
-3. Three control structure:
-4. Code the Program
-5. Test the Program
-6. Document and Maintain
+###### 1. Clarify/Define the Problem
+###### 2. Design the Program
+###### 3. Three control structure:
+###### 4. Code the Program
+###### 5. Test the Program
+###### 6. Document and Maintain
 
 #### 12 - Algorithms 
-##### An algorithm is a list of rules to follow in order to solve a problem. Algorithms need to have their steps in the right order as they are followed by any one and everyone so if they are in the wrong order it is like looking a instructions the wrong way. A example of this is a Flow Chart.
+###### An algorithm is a list of rules to follow in order to solve a problem. Algorithms need to have their steps in the right order as they are followed by any one and everyone so if they are in the wrong order it is like looking a instructions the wrong way. A example of this is a Flow Chart.
