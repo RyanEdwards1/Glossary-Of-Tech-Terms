@@ -42,9 +42,10 @@
 #### 11. 3. Code the Program
 ###### This is where you will need to have your IDE selected because you will be starting to code your work and you are going to want to make sure it is compatible with your customers needs. 
 
-### 11. 4. Test the Program
+#### 11. 4. Test the Program
 ##### At this point your code should be complete enough to be able to test cetain parts of the code or even all of it. This is the start of the debugging process. 
-### 11. 5. Document and Maintain
+
+#### 11. 5. Document and Maintain
 ##### Once you have completed your work you will send it off to the customer and you will maintain it if it is a website or a app. 
 
 #### 12 - Algorithms 
