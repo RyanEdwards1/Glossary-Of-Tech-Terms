@@ -55,7 +55,7 @@
 
 #### 14 - Debugging 
 ###### Debugging is a process that is very helpful and useful for every coder it helps you look over your working code in the console and check to see if there is any errors have occured in the process. Then you are able to read and check through every line in the code that has been affected the program. This then makes sure the program is in working order and to make it more robust. Without this, the code affect might not be shown and so you will not be able to know what is the problem with the code. Which may then cause problems in the future.
-###### The Tools of Debugging, Firstly what is a debugging tool, it is a computer code introduced to a computer program to test for errors or to help determine the cause of an error. It can be as simple as an echo command to print the value of a variable at certain points of a program. they are used by every single programmer to
+###### The Tools of Debugging, Firstly what is a debugging tool, it is a computer code introduced to a computer program to test for errors or to help determine the cause of an error. It can be as simple as an echo command to print the value of a variable at certain points of a program. they are used by every single programmer to get rid of any errors in there code once they are done with there work. the most comman tool is DDD which is used in GBD,jdb,Python,Perl and Tcl. People also use Interactive debugging, Print debugging and Tracing debugging
 
 #### 15 - Procedural 
 ###### Procedures also known as functions contain a series of computational steps to be carried out. Any given procedure might be called at any point during a program's execution, including by other procedures or itself. 
