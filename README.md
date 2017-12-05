@@ -32,7 +32,7 @@
 
 #### 11 - Programming Steps
 ###### 1. Clarify/Define What language and IDE you will use
-      - Firstly you will want to define what language you will use to write this set project in. Then you will need to find a IDE that supports the Language you have chosen
+      Firstly you will want to define what language you will use to write this set project in. Then you will need to find a IDE that supports the Language you have chosen
 ###### 2. Design the Program
 ###### 3. Three control structure:
 ###### 4. Code the Program
