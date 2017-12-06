@@ -69,3 +69,9 @@
 
 #### Relationship Between paradigms 
 ###### All of the paradigms are trying to acheive the same outcome but in all different ways. They are all trying to do the same thing which is to help implement some form of solution to the problem that the user is having, the differences are how they do it. They all contain functions but have different ways of them being implemented. Procedural simply just calls the functions, Event Driven ties the function to an event to happen and Object Orientated ties the function to an object through class and other methods.
+
+### 18 - Interpreter
+#### A Interpreter runs in a very differnet way to a compiler. The way a interpreter works is that it will follow your code line by line translating one statement at a time. Some examples of programmning langauges that use a interpreter is Python and Ruby. A interpreter takes less amount of time to analyze the source code but the overall execution time is slower. A benift of using a interpreter is that it continues translating the program until the first error is met, in which case it stops this makes debugging easy as you know where error will have occurred.
+
+### 19 - Compiler 
+#### The way a compiler works is that it scan the entire program and translates it as a whole into machine code. Ready for it to run. The problem with this is that it takes large amount of time to analyze the source code but the overall execution time is comparatively faster. Some examples of languages that use a Compiler is C or C++. Another problem with a comiler is that it generates the error message only after scanning the whole program. Hence debugging is comparatively hard.
