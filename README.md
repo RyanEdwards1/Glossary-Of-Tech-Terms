@@ -43,10 +43,10 @@
 ###### This is where you will need to have your IDE selected because you will be starting to code your work and you are going to want to make sure it is compatible with your customers needs. 
 
 #### 11. 4. Test the Program
-##### At this point your code should be complete enough to be able to test cetain parts of the code or even all of it. This is the start of the debugging process. 
+###### At this point your code should be complete enough to be able to test cetain parts of the code or even all of it. This is the start of the debugging process. 
 
 #### 11. 5. Document and Maintain
-##### Once you have completed your work you will send it off to the customer and you will maintain it if it is a website or a app. 
+###### Once you have completed your work you will send it off to the customer and you will maintain it if it is a website or a app. 
 
 #### 11. 6. - Compiler 
 ###### The way a compiler works is that it scan the entire program and translates it as a whole into machine code. Ready for it to run. The problem with this is that it takes large amount of time to analyze the source code but the overall execution time is comparatively faster. Some examples of languages that use a Compiler is C or C++. Another problem with a comiler is that it generates the error message only after scanning the whole program. Hence debugging is comparatively hard.
