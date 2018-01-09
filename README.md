@@ -73,7 +73,8 @@
 #### 17 - Event Driven Pradigms 
 ###### The flow of the program is controlled by events such as user actions, sensor outputs, or messages from other programs/threads. Some examples are Buttons, Mouse movement, Yes or No and a switch
 
-#### Relationship Between paradigms 
+#### 18 - Relationship Between paradigms 
 ###### All of the paradigms are trying to acheive the same outcome but in all different ways. They are all trying to do the same thing which is to help implement some form of solution to the problem that the user is having, the differences are how they do it. They all contain functions but have different ways of them being implemented. Procedural simply just calls the functions, Event Driven ties the function to an event to happen and Object Orientated ties the function to an object through class and other methods.
 
-
+#### 19 - Threats That An Organisation Would Face
+#### 20 - Security Procedure for a company 
