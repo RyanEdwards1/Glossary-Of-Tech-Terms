@@ -93,3 +93,11 @@
 
 #### 21 - Building an Application 
 ###### The first thing to do when building an application is to understand the aims and objectives that have been set by either the client or your audience. Once you have set them out you want to make them into User stories and if you are in a group then you want to spread them out to your team. But if you are by yourself you have to manage your time. You then want to be able to choose the best IDE that suits your application. Then the coding begins once you have finished the coding you want to run your final tests and then you ship it off to your customer if they are happy with it 
+
+### Research
+
+#### 22 - Qualitative
+###### Qualitative Research is primarily exploratory research. It is used to gain an understanding of underlying reasons, opinions, and motivations. Qualitative data collection methods vary using unstructured or semi-structured techniques. Some common methods include focus groups, individual interviews, and participation/observations
+
+#### 23 - Quantitative
+###### Quantitative Research is used to quantify the problem by way of generating numerical data or data that can be transformed into usable statistics. It is used to quantify attitudes, opinions, behaviors, and other defined variables. Quantitative data collection methods include various forms of surveys – online surveys, paper surveys, mobile surveys and kiosk surveys, face-to-face interviews, telephone interviews, longitudinal studies, website interceptors, online polls
