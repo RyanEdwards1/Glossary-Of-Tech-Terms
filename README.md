@@ -34,7 +34,7 @@
 
 #### 11. 1. Clarify/Define What language and IDE you will use 
 
-###### Firstly you will want to define what language you will use to write this set project in. Then you will need to find a IDE that supports the Language you have chosen
+###### Firstly you will want to define what language you will use to write your project in each language is different so it is important you select the right one for your selected project. Then you will need to find a IDE that supports the Language you have chosen. Also certain IDEs will have many debugging features and possibly a preview of the code so that you can get a live view of what you're making
 
 #### 11. 2. Design the Program
 ###### This is where you create the story boards of how what ever you are making is going to play out. secondly you will need to make a flow chart of how the code will work so that you can follow it. Then if you need any graphics or assets you will need to design or buy them as well
