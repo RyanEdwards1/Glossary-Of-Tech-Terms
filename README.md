@@ -55,9 +55,14 @@
 ###### A Interpreter runs in a very differnet way to a compiler. The way a interpreter works is that it will follow your code line by line translating one statement at a time. Some examples of programmning langauges that use a interpreter is Python and Ruby. A interpreter takes less amount of time to analyze the source code but the overall execution time is slower. A benift of using a interpreter is that it continues translating the program until the first error is met, in which case it stops this makes debugging easy as you know where error will have occurred.
 
 #### 12 - Algorithms 
-###### An algorithm is a list of rules to follow in order to solve a problem. Algorithms need to have their steps in the right order as they are followed by any one and everyone so if they are in the wrong order it is like looking a instructions the wrong way. A example of this is a Flow Chart.
+###### An algorithm is a list of rules to follow in order to solve a problem. Algorithms need to have their steps in the right order as they are followed by any one and everyone so if they are in the wrong order it is like looking a instructions the wrong way. A example of this is a Flow Chart. The algorithms normally have a set of operations which all include computer programs waiting to be executed
+
+#### Implementation of an Algorithm 
+###### An algorithm is a list of simple rules that the computer will execute and follow step by step till it is complete. For an algorithm to work you need to follow the steps in which you want the application to run. An example of this is when you first get a new project you will break it down into steps and then you will create a flowchart with the outcome. The flow chart will then help you to start writing your code. The flow chart also gives you mile stones while you go keeping you in the correct path.  
+
+
 #### 13 - IDE
-###### A IDE also known as a Integrated Development Environment. Is a software application that provides comprehensive facilities to computer programmers for software development. An IDE normally consists of a source code editor, build automation tools and a debugger. Some Examples of this are NotePad ++, Repl.It, Shell And Unity
+###### A IDE also known as a Integrated Development Environment.  Is a software application that provides comprehensive facilities to computer programmers for software development. An IDE normally consists of a source code editor, build automation tools and a debugger. Some Examples of this are NotePad ++, Repl.It, Shell And Unity
 
 #### Features of Repl.it (IDE)
 ###### The main features of Repl.it is that it is a live real time up to date running system of the code that you input on the left-hand side of the screen. Also, it allows you to access your work anywhere you want if you have an internet connection as it saves your work to their servers. Also, if you have an account with them you can save a lot of work and access it anywhere. It also helps with your coding standards like indenting your code and it also has a colour scheme for certain standards to help. Another feature is help with debugging when there is an error it displays the line that it is on or is causing the error so the programmer knows where to look.    
