@@ -75,9 +75,28 @@
 ###### In project 2 we used Repl.It which was a real time IDE which allowed us to see are code on the other side of the screen when ever we clicked run it would happen straight away. it also helped with Indenting and other coding benefits. Also once you have finished your program it allows you to download it straight to your PC or even upload it to your GitHub
 
 #### 14 - Debugging 
-###### Debugging is a process that is very helpful and useful for every coder it helps you look over your working code in the console and check to see if there is any errors have occured in the process. Then you are able to read and check through every line in the code that has been affected the program. This then makes sure the program is in working order and to make it more robust. Without this, the code affect might not be shown and so you will not be able to know what is the problem with the code. Which may then cause problems in the future.
-###### The Tools of Debugging, Firstly what is a debugging tool, it is a computer code introduced to a computer program to test for errors or to help determine the cause of an error. It can be as simple as an echo command to print the value of a variable at certain points of a program. they are used by every single programmer to get rid of any errors in there code once they are done with there work. the most comman tool is DDD which is used in GBD,jdb,Python,Perl and Tcl. People also use Interactive debugging, Print debugging and Tracing debugging
-###### Debugging makes your work more Secure and Robust, The debugging proccess can be used to help develop more secure, robust applications, though to first undertstand how, it is required to first know what the robustness of a system is, which in this instance robustness relates to the ability of a computer system to cope with errors during execution and cope with erroneous input.
+##### Definition 
+###### Debugging is a process that is very helpful and useful for every coder it helps you look over your working code in the console and check to see if there are any errors have occurred in the process. Then you are able to read and check through every line in the code that has been affected the program. This then makes sure the program is in working order and to make it more robust. Without this, the code affect might not be shown and so you will not be able to know what is the problem with the code. Which may then cause problems in the future
+##### Different tools in debugging 
+###### The Tools of Debugging, firstly what is a debugging tool, it is a computer code introduced to a computer program to test for errors or to help determine the cause of an error. It can be as simple as an echo command to print the value of a variable at certain points of a program. they are used by every single programmer to get rid of any errors in their code once they are done with their work. the most common tool is DDD which is used in GBD, jdb, Python, Perl and Tcl. People also use Interactive debugging, Print debugging and Tracing debugging
+##### Different techniques in debugging
+###### Interactive debugging, Print / Tracing debugging, Remote debugging, Post-mortem debugging and Delta Debugging
+##### Backtracking
+###### One debugging idea is to start debugging from the point where the problem occurred and go back through the code till you find where the code has gone wrong do this all the way back to the start 
+##### Debugging Process 
+###### 1. Reproduce the problem. 
+
+###### 2. Describe the bug. Try to get as much input from the user to get the exact reason.
+
+###### 3. Capture the program snapshot when the bug appears. Try to get all the variable values and states of the program at that time.
+
+###### 4. Analyse the snapshot based on the state and action. Based on that try to find the cause of the bug. 
+
+###### 5. Fix the existing bug, but also check that any new bug does not occur.
+
+##### Secure and Robust
+###### Debugging makes your work more Secure and Robust, the debugging process can be used to help develop more secure, robust applications, though to first understand how, it is required to first know what the robustness of a system is, which in this instance robustness relates to the ability of a computer system to cope with errors during execution and cope with erroneous input.
+
 
 #### 15 - Procedural 
 ###### Procedures also known as functions contain a series of computational steps to be carried out. Any given procedure might be called at any point during a program's execution, including by other procedures or itself. 
