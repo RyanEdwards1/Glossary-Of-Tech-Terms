@@ -84,9 +84,10 @@
 
 #### Common Features In IDEs For Debugging:
 ###### Breakpoints - A Breakpoint is an stopping or pausing place in a program if it is to run into a problem
-###### Run, Step Over/Into/Out.
-###### List name and contents of variables in local/global scope.
-###### Hover over variable to show contents.
+###### Step Into - Executes code one statement at a time
+###### Step Out - Executes the remaining lines of a function in which the current execution point lies
+###### Run to cursor - This command starts debugging and sets a temporary breakpoint on the current line of code.
+###### Examine an exception - When your app throws an exception, the debugger takes you to the line of code that threw the exception
 ###### Inspect or edit variable contents.
 ###### View structure of objects.
 
