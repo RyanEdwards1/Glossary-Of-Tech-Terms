@@ -74,6 +74,15 @@
 #### Features of Repl.it (IDE)
 ###### The main features of Repl.it is that it is a live real time up to date running system of the code that you input on the left-hand side of the screen. Also, it allows you to access your work anywhere you want if you have an internet connection as it saves your work to their servers. Also, if you have an account with them you can save a lot of work and access it anywhere. It also helps with your coding standards like indenting your code and it also has a colour scheme for certain standards to help. Another feature is help with debugging when there is an error it displays the line that it is on or is causing the error so the programmer knows where to look.    
 
+#### Common Features In IDEs For Debugging:
+Breakpoints.
+Run, Step Over/Into/Out.
+View the call stack.
+List name and contents of variables in local/global scope.
+Hover over variable to show contents.
+Inspect or edit variable contents.
+View structure of objects.
+
 #### 13.1 Using a IDE vs Not Using a IDE
 ###### In project 1 we used Notepad to create are Trace ball. Note pad is not a IDE so it had nothing to support the coder you could only see the text that you have written and then run it once you save it. Also when you want to run it, it will launch in a web browser which can cause problems sometimes when using Internet Explorer. But you may not have any problems lanching it in Chrome.  
 ###### In project 2 we used Repl.It which was a real time IDE which allowed us to see are code on the other side of the screen when ever we clicked run it would happen straight away. it also helped with Indenting and other coding benefits. Also once you have finished your program it allows you to download it straight to your PC or even upload it to your GitHub
