@@ -85,13 +85,13 @@
 ###### The Tools of Debugging, firstly what is a debugging tool, it is a computer code introduced to a computer program to test for errors or to help determine the cause of an error. It can be as simple as an echo command to print the value of a variable at certain points of a program. they are used by every single programmer to get rid of any errors in their code once they are done with their work. the most common tool is DDD which is used in GBD, jdb, Python, Perl and Tcl. People also use Interactive debugging, Print debugging and Tracing debugging
 
 #### Common Features In IDEs For Debugging:
-Breakpoints.
-Run, Step Over/Into/Out.
-View the call stack.
-List name and contents of variables in local/global scope.
-Hover over variable to show contents.
-Inspect or edit variable contents.
-View structure of objects.
+###### Breakpoints.
+###### Run, Step Over/Into/Out.
+###### View the call stack.
+###### List name and contents of variables in local/global scope.
+###### Hover over variable to show contents.
+###### Inspect or edit variable contents.
+###### View structure of objects.
 
 ##### Different techniques in debugging
 ###### Interactive debugging, Print / Tracing debugging, Remote debugging, Post-mortem debugging and Delta Debugging
