@@ -32,29 +32,33 @@
 
 ### 11 - Programming Steps / Building an Application
 
-#### 11. 1. Clarify/Define What language and IDE you will use 
+#### 11. 1. Meeting The Client:
+
+###### The first thing that you will do will be meeting with the client that has hired you to undertake the task. From the initial meeting they will pitch their idea or proposal to you and you will take notes whilst also throwing ideas and questions their way to gain a better understanding. This initial process allows the client and the team to all get a unified understanding of what they want the final product to look like.
+
+#### 11. 2. Clarify/Define What language and IDE you will use 
 
 ###### Firstly you will want to define what language you will use to write your project in each language is different so it is important you select the right one for your selected project. Then you will need to find a IDE that supports the Language you have chosen. Also certain IDEs will have many debugging features and possibly a preview of the code so that you can get a live view of what you're making
 
-#### 11. 2. Design the Program
+#### 11. 3. Design the Program
 ###### This is where you will create the story boards of how the project you are making is going to play out it will also help you in the coding as well with milestones. Secondly you will need to make a flow chart of how the code will work so that you can follow it. Then if you need any graphics or assets you will need to design or buy them as well
 
-#### 11. 3. Code the Program
+#### 11. 4. Code the Program
 ###### This is where you will need to have your IDE selected because you will be starting to code your work and you are going to want to make sure it is compatible with your customers needs. You will make sure at this stage that everything you plan to do is right for the clients needs. Using your Story boards and flow chart you will then begin to program the code following the steps 
 
-#### 11. 4. Test the Program
+#### 11. 5. Test the Program
 ###### At this point your code should be complete enough to be able to test cetain parts of the code or even all of it. This is the start of the debugging process. If you have selected a IDE that supports alot of debugging tools then this step can be made easier then. the IDE will point out mistakes and problems with your code which you are albe to fix straight away. if your IDE does not support debugging features then you will need to find alternate ways to troubleshoot the code. This can be done by running the code as intended e.g. opening it in a browser or even in a third party software/program to see if the correct features load.
 
-#### 11. 5. Document and Maintain
+#### 11. 6. Document and Maintain
 ###### Once you have completed your work you will send it off to the customer and you will maintain it if it is a website or a app. The documentation will also help to provide evidence to the client to show how hard or how long you spent working on the project.
 
-#### 11. 6.Shipping/Hand over
+#### 11. 7.Shipping/Hand over
 ###### once the project is complete and you are happy with your work then it is stime to hand it over to the client and make sure that they are also happy with the finished final project. If they are then the exchange happens
 
-#### 11. 7. - Compiler 
+#### 11. 8. - Compiler 
 ###### The way a compiler works is that it scan the entire program and translates it as a whole into machine code. Ready for it to run. The problem with this is that it takes large amount of time to analyze the source code but the overall execution time is comparatively faster. Some examples of languages that use a Compiler is C or C++. Another problem with a comiler is that it generates the error message only after scanning the whole program. Hence debugging is comparatively hard.
 
-#### 11. 8. Interpreter
+#### 11. 9. Interpreter
 ###### A Interpreter runs in a very differnet way to a compiler. The way a interpreter works is that it will follow your code line by line translating one statement at a time. Some examples of programmning langauges that use a interpreter is Python and Ruby. A interpreter takes less amount of time to analyze the source code but the overall execution time is slower. A benift of using a interpreter is that it continues translating the program until the first error is met, in which case it stops this makes debugging easy as you know where error will have occurred.
 
 #### 12 - Algorithms 
