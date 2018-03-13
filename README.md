@@ -74,15 +74,6 @@
 #### Features of Repl.it (IDE)
 ###### The main features of Repl.it is that it is a live real time up to date running system of the code that you input on the left-hand side of the screen. Also, it allows you to access your work anywhere you want if you have an internet connection as it saves your work to their servers. Also, if you have an account with them you can save a lot of work and access it anywhere. It also helps with your coding standards like indenting your code and it also has a colour scheme for certain standards to help. Another feature is help with debugging when there is an error it displays the line that it is on or is causing the error so the programmer knows where to look.    
 
-#### Common Features In IDEs For Debugging:
-Breakpoints.
-Run, Step Over/Into/Out.
-View the call stack.
-List name and contents of variables in local/global scope.
-Hover over variable to show contents.
-Inspect or edit variable contents.
-View structure of objects.
-
 #### 13.1 Using a IDE vs Not Using a IDE
 ###### In project 1 we used Notepad to create are Trace ball. Note pad is not a IDE so it had nothing to support the coder you could only see the text that you have written and then run it once you save it. Also when you want to run it, it will launch in a web browser which can cause problems sometimes when using Internet Explorer. But you may not have any problems lanching it in Chrome.  
 ###### In project 2 we used Repl.It which was a real time IDE which allowed us to see are code on the other side of the screen when ever we clicked run it would happen straight away. it also helped with Indenting and other coding benefits. Also once you have finished your program it allows you to download it straight to your PC or even upload it to your GitHub
@@ -92,6 +83,16 @@ View structure of objects.
 ###### Debugging is a process that is very helpful and useful for every coder it helps you look over your working code in the console and check to see if there are any errors have occurred in the process. Then you are able to read and check through every line in the code that has been affected the program. This then makes sure the program is in working order and to make it more robust. Without this, the code affect might not be shown and so you will not be able to know what is the problem with the code. Which may then cause problems in the future
 ##### Different tools in debugging 
 ###### The Tools of Debugging, firstly what is a debugging tool, it is a computer code introduced to a computer program to test for errors or to help determine the cause of an error. It can be as simple as an echo command to print the value of a variable at certain points of a program. they are used by every single programmer to get rid of any errors in their code once they are done with their work. the most common tool is DDD which is used in GBD, jdb, Python, Perl and Tcl. People also use Interactive debugging, Print debugging and Tracing debugging
+
+#### Common Features In IDEs For Debugging:
+Breakpoints.
+Run, Step Over/Into/Out.
+View the call stack.
+List name and contents of variables in local/global scope.
+Hover over variable to show contents.
+Inspect or edit variable contents.
+View structure of objects.
+
 ##### Different techniques in debugging
 ###### Interactive debugging, Print / Tracing debugging, Remote debugging, Post-mortem debugging and Delta Debugging
 ##### Backtracking
