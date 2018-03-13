@@ -33,15 +33,13 @@
 ### 11 - Programming Steps / Building an Application
 
 #### 11. 1. Meeting The Client:
+###### The first thing that you will do will be meeting with the client that has hired you to undertake the task. From the initial meeting they will pitch their idea or proposal to you and you will take notes whilst also throwing ideas and questions their way to gain a better understanding. This is where the client will tell you the requirements of the project. Which you will need to take down as the most important thing because if you don’t meet all the requirements you are wasting your time. Before you start designing the project you will need to break down the requirements and put them into Epics and User Stories so that they are easier to follow and you can create milestones.
 
-###### The first thing that you will do will be meeting with the client that has hired you to undertake the task. From the initial meeting they will pitch their idea or proposal to you and you will take notes whilst also throwing ideas and questions their way to gain a better understanding. This initial process allows the client and the team to all get a unified understanding of what they want the final product to look like.
-
-#### 11. 2. Clarify/Define What language and IDE you will use 
-
-###### Firstly you will want to define what language you will use to write your project in each language is different so it is important you select the right one for your selected project. Then you will need to find a IDE that supports the Language you have chosen. Also certain IDEs will have many debugging features and possibly a preview of the code so that you can get a live view of what you're making
-
-#### 11. 3. Design the Program
+#### 11. 2. Design the Program
 ###### This is where you will create the story boards of how the project you are making is going to play out it will also help you in the coding as well with milestones. Secondly you will need to make a flow chart of how the code will work so that you can follow it. Then if you need any graphics or assets you will need to design or buy them as well
+
+#### 11. 3. Clarify/Define What language and IDE you will use 
+###### Firstly you will want to define what language you will use to write your project in each language is different so it is important you select the right one for your selected project. Then you will need to find a IDE that supports the Language you have chosen. Also certain IDEs will have many debugging features and possibly a preview of the code so that you can get a live view of what you're making
 
 #### 11. 4. Code the Program
 ###### This is where you will need to have your IDE selected because you will be starting to code your work and you are going to want to make sure it is compatible with your customers needs. You will make sure at this stage that everything you plan to do is right for the clients needs. Using your Story boards and flow chart you will then begin to program the code following the steps 
@@ -87,7 +85,6 @@
 #### Common Features In IDEs For Debugging:
 ###### Breakpoints.
 ###### Run, Step Over/Into/Out.
-###### View the call stack.
 ###### List name and contents of variables in local/global scope.
 ###### Hover over variable to show contents.
 ###### Inspect or edit variable contents.
