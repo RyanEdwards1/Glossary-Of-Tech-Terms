@@ -88,8 +88,6 @@
 ###### Step Out - Executes the remaining lines of a function in which the current execution point lies
 ###### Run to cursor - This command starts debugging and sets a temporary breakpoint on the current line of code.
 ###### Examine an exception - When your app throws an exception, the debugger takes you to the line of code that threw the exception
-###### Inspect or edit variable contents.
-###### View structure of objects.
 
 ##### Different techniques in debugging
 ###### Interactive debugging, Print / Tracing debugging, Remote debugging, Post-mortem debugging and Delta Debugging
