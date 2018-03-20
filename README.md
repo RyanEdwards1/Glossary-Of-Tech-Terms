@@ -59,7 +59,7 @@
 #### 11. 9. Interpreter
 ###### A Interpreter runs in a very differnet way to a compiler. The way a interpreter works is that it will follow your code line by line translating one statement at a time. Some examples of programmning langauges that use a interpreter is Python and Ruby. A interpreter takes less amount of time to analyze the source code but the overall execution time is slower. A benift of using a interpreter is that it continues translating the program until the first error is met, in which case it stops this makes debugging easy as you know where error will have occurred.
 
-#### 12 - Algorithms 
+#### 12 - Definition Of Algorithms 
 ###### An algorithm is a list of rules to follow in order to solve a problem. Algorithms need to have their steps in the right order as they are followed by any one and everyone so if they are in the wrong order it is like looking a instructions the wrong way. A example of this is a Flow Chart. The algorithms normally have a set of operations which all include computer programs waiting to be executed
 
 #### Implementation of an Algorithm 
