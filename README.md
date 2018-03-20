@@ -38,8 +38,8 @@
 #### 11. 2. Design the Program
 ###### This is where you will create the story boards of how the project you are making is going to play out it will also help you in the coding as well with milestones. Secondly you will need to make a flow chart of how the code will work so that you can follow it. Then if you need any graphics or assets you will need to design or buy them as well
 
-#### 11. 3. Clarify/Define What language and IDE you will use 
-###### Firstly you will want to define what language you will use to write your project in each language is different so it is important you select the right one for your selected project. Then you will need to find a IDE that supports the Language you have chosen. Also certain IDEs will have many debugging features and possibly a preview of the code so that you can get a live view of what you're making
+#### 11. 3. Clarify/Define What language
+###### Firstly you will want to define what language you will use to write your project in each language is different so it is important you select the right one for your selected project. It is important to make sure you chose the correct language for your project as multiple people can be working on this project so you will need to check with them to see what languages they are able to code in 
 
 #### 11. 4. Code the Program
 ###### This is where you will need to have your IDE selected because you will be starting to code your work and you are going to want to make sure it is compatible with your customers needs. You will make sure at this stage that everything you plan to do is right for the clients needs. Using your Story boards and flow chart you will then begin to program the code following the steps 
