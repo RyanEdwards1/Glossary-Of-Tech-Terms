@@ -152,7 +152,19 @@
 ###### Quantitative Research is used to quantify the problem by way of generating numerical data or data that can be transformed into usable statistics. It is used to quantify attitudes, opinions, behaviors, and other defined variables. Quantitative data collection methods include various forms of surveys – online surveys, paper surveys, mobile surveys and kiosk surveys, face-to-face interviews, telephone interviews, longitudinal studies, website interceptors, online polls
 
 #### 24 - How technical solutions can be compared
-###### How Technical solutions are compared in many different ways and for many different reasons. They are mainly compared to see which one best suits the systems purpose in order to best complete the project. When looking for different solutions you have to look at its safety to keep your project safe from hackers or malicious software. Also you have to look for security which will also keep your work safe and protect it. You also want the solution to be reliable so that when you need to do work it is up and running and has no down time. When using these solutions, you also want to be able to maintain your work and project so maintainability is important to the developers as well. The solution also needs to be user friendly for the project team it needs to be something everyone can use. So normally the solutions can be edited so the manager can select a certain programming language for example. Overall the people using these solutions are looking for a trust worthy technical solution 
+
+#### Fitness of Purpose 
+##### Does the software address the given problem. It should also aim to fix the problem given. If it is not fixing the problem, you may need to check if it is working as intended or a possible malicious purpose which can cause damage to your PC and anything you are connected to.
+
+#### Maturity
+##### When using the first version of anything it is always risky. Including software and hardware. Companies are always using products that have been rushed to be released before it is ready. These products can cause issues as they may not be up to scratch on security and can allow a gateway for hackers to get in 
+
+#### Support 
+##### If a product goes wrong then there has to be some way to resolve the issue. You can always call up a support number and get commercial support but large numbers of problems are not fixable over the phone or on the internet. Open source is a growing support line which can a lot more valuable in problem solving 
+
+#### Licensing Cost
+##### Most things these days have a cost weather it is monthly or Annually they will make you pay for their product. You may have a go to piece of software for your computers however you have to ask is there a free or low price alternate. But this can lead to problems or can work. Open source software can be expensive if you are buying from the source. 
+
 
 ### Explain User and Software Requirements
 ###### The software requirements are what is given to you by the client. When you first meet them they will do a presentation or give you information on what they want in the product. They will give you a brief of the project it will be your job to break it down and create Epic Stories which you will use as your mile stones when designing and programming it you will have to implement these stories. You will also break down User Stories which can be used to make smaller stories to follow while you work and also they can help for debugging.  There are also many other software requirements which need to be addressed such as Purpose, System Overview, 
